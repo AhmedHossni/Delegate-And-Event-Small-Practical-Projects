@@ -1,0 +1,7 @@
+G:\Programming\Fundementals Of Programming\Mohamed Abu-hadhoud\All Courses\Fundamental Courses\(18) ADO .NET (6h)\CourseProjects\StockPriceDelegateAndEventExample\bin\Debug\StockPriceDelegateAndEventExample.exe.config
+G:\Programming\Fundementals Of Programming\Mohamed Abu-hadhoud\All Courses\Fundamental Courses\(18) ADO .NET (6h)\CourseProjects\StockPriceDelegateAndEventExample\bin\Debug\StockPriceDelegateAndEventExample.exe
+G:\Programming\Fundementals Of Programming\Mohamed Abu-hadhoud\All Courses\Fundamental Courses\(18) ADO .NET (6h)\CourseProjects\StockPriceDelegateAndEventExample\bin\Debug\StockPriceDelegateAndEventExample.pdb
+G:\Programming\Fundementals Of Programming\Mohamed Abu-hadhoud\All Courses\Fundamental Courses\(18) ADO .NET (6h)\CourseProjects\StockPriceDelegateAndEventExample\obj\Debug\StockPriceDelegateAndEventExample.csproj.AssemblyReference.cache
+G:\Programming\Fundementals Of Programming\Mohamed Abu-hadhoud\All Courses\Fundamental Courses\(18) ADO .NET (6h)\CourseProjects\StockPriceDelegateAndEventExample\obj\Debug\StockPriceDelegateAndEventExample.csproj.CoreCompileInputs.cache
+G:\Programming\Fundementals Of Programming\Mohamed Abu-hadhoud\All Courses\Fundamental Courses\(18) ADO .NET (6h)\CourseProjects\StockPriceDelegateAndEventExample\obj\Debug\StockPriceDelegateAndEventExample.exe
+G:\Programming\Fundementals Of Programming\Mohamed Abu-hadhoud\All Courses\Fundamental Courses\(18) ADO .NET (6h)\CourseProjects\StockPriceDelegateAndEventExample\obj\Debug\StockPriceDelegateAndEventExample.pdb

@@ -1,0 +1,7 @@
+G:\Programming\Fundementals Of Programming\Mohamed Abu-hadhoud\All Courses\Fundamental Courses\(18) ADO .NET (6h)\CourseProjects\FileMonitorGelegateAndEventExample\bin\Debug\FileMonitorGelegateAndEventExample.exe.config
+G:\Programming\Fundementals Of Programming\Mohamed Abu-hadhoud\All Courses\Fundamental Courses\(18) ADO .NET (6h)\CourseProjects\FileMonitorGelegateAndEventExample\bin\Debug\FileMonitorGelegateAndEventExample.exe
+G:\Programming\Fundementals Of Programming\Mohamed Abu-hadhoud\All Courses\Fundamental Courses\(18) ADO .NET (6h)\CourseProjects\FileMonitorGelegateAndEventExample\bin\Debug\FileMonitorGelegateAndEventExample.pdb
+G:\Programming\Fundementals Of Programming\Mohamed Abu-hadhoud\All Courses\Fundamental Courses\(18) ADO .NET (6h)\CourseProjects\FileMonitorGelegateAndEventExample\obj\Debug\FileMonitorGelegateAndEventExample.csproj.AssemblyReference.cache
+G:\Programming\Fundementals Of Programming\Mohamed Abu-hadhoud\All Courses\Fundamental Courses\(18) ADO .NET (6h)\CourseProjects\FileMonitorGelegateAndEventExample\obj\Debug\FileMonitorGelegateAndEventExample.csproj.CoreCompileInputs.cache
+G:\Programming\Fundementals Of Programming\Mohamed Abu-hadhoud\All Courses\Fundamental Courses\(18) ADO .NET (6h)\CourseProjects\FileMonitorGelegateAndEventExample\obj\Debug\FileMonitorGelegateAndEventExample.exe
+G:\Programming\Fundementals Of Programming\Mohamed Abu-hadhoud\All Courses\Fundamental Courses\(18) ADO .NET (6h)\CourseProjects\FileMonitorGelegateAndEventExample\obj\Debug\FileMonitorGelegateAndEventExample.pdb

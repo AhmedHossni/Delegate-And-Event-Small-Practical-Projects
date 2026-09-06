@@ -1,0 +1,7 @@
+G:\Programming\Fundementals Of Programming\Mohamed Abu-hadhoud\All Courses\Fundamental Courses\(18) ADO .NET (6h)\CourseProjects\FileProgressEventAndDelegateExample\bin\Debug\FileProgressEventAndDelegateExample.exe.config
+G:\Programming\Fundementals Of Programming\Mohamed Abu-hadhoud\All Courses\Fundamental Courses\(18) ADO .NET (6h)\CourseProjects\FileProgressEventAndDelegateExample\bin\Debug\FileProgressEventAndDelegateExample.exe
+G:\Programming\Fundementals Of Programming\Mohamed Abu-hadhoud\All Courses\Fundamental Courses\(18) ADO .NET (6h)\CourseProjects\FileProgressEventAndDelegateExample\bin\Debug\FileProgressEventAndDelegateExample.pdb
+G:\Programming\Fundementals Of Programming\Mohamed Abu-hadhoud\All Courses\Fundamental Courses\(18) ADO .NET (6h)\CourseProjects\FileProgressEventAndDelegateExample\obj\Debug\FileProgressEventAndDelegateExample.csproj.AssemblyReference.cache
+G:\Programming\Fundementals Of Programming\Mohamed Abu-hadhoud\All Courses\Fundamental Courses\(18) ADO .NET (6h)\CourseProjects\FileProgressEventAndDelegateExample\obj\Debug\FileProgressEventAndDelegateExample.csproj.CoreCompileInputs.cache
+G:\Programming\Fundementals Of Programming\Mohamed Abu-hadhoud\All Courses\Fundamental Courses\(18) ADO .NET (6h)\CourseProjects\FileProgressEventAndDelegateExample\obj\Debug\FileProgressEventAndDelegateExample.exe
+G:\Programming\Fundementals Of Programming\Mohamed Abu-hadhoud\All Courses\Fundamental Courses\(18) ADO .NET (6h)\CourseProjects\FileProgressEventAndDelegateExample\obj\Debug\FileProgressEventAndDelegateExample.pdb
